@@ -600,7 +600,7 @@ This is reflected in the final confusion matrix.
 
 # 👨‍💻 Author
 
-**Satyam Gupta**
+**Ritesh Jat**
 
 B.Tech in Electronics & Communication Engineering <br>
 Maulana Azad National Institute of Technology, Bhopal
